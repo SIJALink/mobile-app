@@ -1,17 +1,31 @@
-# sijalink_mobile
 
-A new Flutter project.
+# SIJALink Mobile
+
+Aplikasi mobile SIJALink yang dikembangkan menggunakan Flutter.
+
+## Teknologi
+- Flutter
+- Dart
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Pastikan Flutter dan Dart sudah terinstal.
 
-A few resources to get you started if this is your first Flutter project:
+Jalankan perintah berikut:
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+```bash
+flutter pub get
+flutter run
+```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Struktur Project
+
+- `lib/` - Source code aplikasi
+- `assets/` - Asset aplikasi
+- `android/` - Konfigurasi Android
+- `ios/` - Konfigurasi iOS
+- `pubspec.yaml` - Dependency dan konfigurasi Flutter
+
+## Developer
+
+SIJALink Team
